@@ -1,12 +1,5 @@
 # Unity. Definim el projecte
 
-## Tasks
-In my project you'll be able to:
-* Login
-* Add players to a local database
-* Delete all
-* View!!!
-
 A la UF3 de M8 farem un videojoc amb Unity. La teoria serà genèrica i vosaltres l’aplicareu al vostre propi projecte.
 Per això cal que pensis en les següents preguntes:
 Quin tipus de joc vols fer? 2d horitzontal (ex: Mario Bross), 2d top down (Ex: Zelda), 3d (Ex: shutter, car race, rpg..)
