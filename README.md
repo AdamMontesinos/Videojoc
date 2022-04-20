@@ -21,8 +21,8 @@ Quin tipus de joc vols fer? 2d horitzontal (ex: Mario Bross), 2d top down (Ex: Z
 ## Què fa guanyar la partida?
 
 El joc haurà de tenir, com a mínim, els següents elements:
-Pantalla inicial de menú
-Pantalla de joc (amb una, però ben feta, és suficient)
-Interfície de joc que mostri les vides, la força…
-Efectes sonors
-Elecció de personatge pel joc (en el cas que hi hagi més d’un jugador possible)
+
+* Pantalla de joc (amb una, però ben feta, és suficient)
+* Interfície de joc que mostri les vides, la força…
+* Efectes sonors
+* Elecció de personatge pel joc (en el cas que hi hagi més d’un jugador possible)
