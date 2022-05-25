@@ -7,14 +7,16 @@ Quin tipus de joc vols fer? 2d horitzontal (ex: Mario Bross), 2d top down (Ex: Z
 ## Pensa en la història del joc
 
 Mark Evans necesita volver a casa.
+Serà un juego de plataformas horitzontal donde tendras que esquivar enemigos y trampas para avanzar, moviendote o saltando.
 
 ## Què fa guanyar vida al jugador? què li dóna més força?
 
-Futbol.
+Futbol y las frutas que estan sueltas por el mapa.
 
 ## Què fa debilitar al jugador?
 
 Los monstruos, obstáculos etc.
+Hay pinchos y otros obstáculos que pueden hacerte perder, tambien pelotas de futbol que te empujaran.
 
 ## Què fa acabar una partida?
 
@@ -28,9 +30,15 @@ Cuando Mark recoge las frutas y consigue la copa, termina el nivel.
 
 Los monstruos, obstáculos etc.
 
+- Pinchos
+
+- Enemigo que se mueve
+
+- Cañón de pelotas de futbol
+
 ## Quins elements fan guanyar vida o punts al jugador? Defineix-ne 3.
 
-Futbol.
+Futbol y Frutas.
 
 ## Què fa guanyar la partida?
 
