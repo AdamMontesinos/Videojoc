@@ -18,11 +18,11 @@ Los monstruos, obstáculos etc.
 
 ## Què fa acabar una partida?
 
-Cuando Mark termina el nivel.
+Cuando Mark recoge las frutas y consigue la copa, termina el nivel.
 
 ## Quantes vides tindrà el jugador?
 
-1-3
+1 vida.
 
 ## Quins elements el pot debilitar-matar? Defineix-ne un mínim de 3, han de ser estàtics i dinàmics (ex: unes punxes que no es mouen o bé un a bola de foc que va cap a tu)
 
